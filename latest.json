@@ -3,15 +3,27 @@
   "notes": "Améliorations de performance, stabilité, optimisation CPU/NPU.",
   "pub_date": "2026-04-11T10:00:00Z",
   "platforms": {
-    "windows": {
+    "windows-x64": {
       "url": "https://github.com/tonuser/tonapp-updates/releases/download/v1.0.0/app-setup.exe",
       "sha256": "INSÈRE_SHA256_ICI"
     },
-    "mac": {
-      "url": "https://github.com/tonuser/tonapp-updates/releases/download/v1.0.0/app-mac.dmg",
+    "windows-x32": {
+      "url": "https://github.com/tonuser/tonapp-updates/releases/download/v1.0.0/app-setup.exe",
       "sha256": "INSÈRE_SHA256_ICI"
     },
-    "linux": {
+    "windows-arm64": {
+      "url": "https://github.com/tonuser/tonapp-updates/releases/download/v1.0.0/app-setup.exe",
+      "sha256": "INSÈRE_SHA256_ICI"
+    },
+    "linux-x64": {
+      "url": "https://github.com/tonuser/tonapp-updates/releases/download/v1.0.0/app-linux.AppImage",
+      "sha256": "INSÈRE_SHA256_ICI"
+    }
+    "linux-x32": {
+      "url": "https://github.com/tonuser/tonapp-updates/releases/download/v1.0.0/app-linux.AppImage",
+      "sha256": "INSÈRE_SHA256_ICI"
+    }
+    "linux-arm64": {
       "url": "https://github.com/tonuser/tonapp-updates/releases/download/v1.0.0/app-linux.AppImage",
       "sha256": "INSÈRE_SHA256_ICI"
     }
