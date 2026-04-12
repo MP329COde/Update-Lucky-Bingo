@@ -1,18 +1,18 @@
 {
-  "version": "16.1.2",
+  "version": "16.1.1",
   "notes": "Améliorations de performance, stabilité, optimisation CPU/NPU. Améliauration complète et ajout du nouveau système d'import pour les autres cartons",
   "pub_date": "2026-04-11T10:00:00Z",
   "platforms": {
     "windows-x64": {
-      "url": "https://github.com/MP329COde/Update-Lucky-Bingo/releases/download/16.1.2/Lucky.Bingo-Installer-16.1.1-x64.exe",
+      "url": "https://github.com/MP329COde/Update-Lucky-Bingo/releases/download/16.1.1/Lucky.Bingo-Installer-16.1.1-x64.exe",
       "sha256": "sha256:9f1e4451a50b1a1bc9c865dd63d7da1403679dba28a99cbb1e2c848f4644782c"
     },
     "windows-x32": {
-      "url": "https://github.com/MP329COde/Update-Lucky-Bingo/releases/download/16.1.2/Lucky.Bingo-Installer-16.1.1-ia32.exe",
+      "url": "https://github.com/MP329COde/Update-Lucky-Bingo/releases/download/16.1.1/Lucky.Bingo-Installer-16.1.1-ia32.exe",
       "sha256": "sha256:119fbad5a10ee80827ea77c59083fbed90ea3c93417e7fc56089d2026e19b968"
     },
     "windows-arm64": {
-      "url": "https://github.com/MP329COde/Update-Lucky-Bingo/releases/download/16.1.2/Lucky.Bingo-Installer-16.1.1-arm64.exe",
+      "url": "https://github.com/MP329COde/Update-Lucky-Bingo/releases/download/16.1.1/Lucky.Bingo-Installer-16.1.1-arm64.exe",
       "sha256": "sha256:bb0c59f7343be3602b7923fc33630365b8c72e6e557f6607932584b1ac4c4f59"
     },
     "linux-x64": {
