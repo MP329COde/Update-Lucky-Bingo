@@ -1,6 +1,6 @@
 {
-  "version": "20.3.2",
-  "notes": "Améliorations de performance, stabilité, optimisation CPU/NPU. Améliauration complète et ajout du nouveau système d'import pour les autres cartons",
+  "version": "20.3.5",
+  "notes": "Correction bug, import. (file not found)",
   "pub_date": "2026-04-11T10:00:00Z",
   "platforms": {
     "windows-x64": {
